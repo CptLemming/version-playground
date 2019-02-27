@@ -1,1 +1,1 @@
-module.exports = 'Do not mind me :o';
+module.exports = 'Do not mind me :)';
