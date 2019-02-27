@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/CptLemming/version-playground/compare/@my-scope/beta@1.1.2...@my-scope/beta@1.1.3) (2019-02-27)
+
+
+### Bug Fixes
+
+* Expression intensifies ([11a184b](https://github.com/CptLemming/version-playground/commit/11a184b))
+
+
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/CptLemming/version-playground/compare/@my-scope/beta@1.1.1...@my-scope/beta@1.1.2) (2019-02-27)
 
