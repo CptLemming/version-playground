@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.6](https://github.com/CptLemming/version-playground/compare/@my-scope/beta@1.1.5...@my-scope/beta@1.1.6) (2019-02-27)
+
+
+
+## 1.0.1 (2019-02-27)
+
+
+### Bug Fixes
+
+* And more change ([8f70a01](https://github.com/CptLemming/version-playground/commit/8f70a01))
+* On noes they be back ([6b35c12](https://github.com/CptLemming/version-playground/commit/6b35c12))
+
+
+
+
+
 ## [1.1.5](https://github.com/CptLemming/version-playground/compare/@my-scope/beta@1.1.4...@my-scope/beta@1.1.5) (2019-02-27)
 
 **Note:** Version bump only for package @my-scope/beta
