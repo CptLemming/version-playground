@@ -3,17 +3,24 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "commitmsg": "commitlint -e $GIT_PARAMS"
+    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
     "lerna": "^3.10.1",
+    "semantic-release": "^15.13.3",
+    "semantic-release-cli": "^4.1.0",
     "verdaccio": "^3.11.6"
   },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CptLemming/version-playground.git"
   }
 }
