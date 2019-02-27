@@ -1,8 +1,7 @@
 {
-    "name": "@my-scope/other",
-    "version": "1.0.0",
-    "publishConfig": {
-      "registry": "http://localhost:4873"
-    }
+  "name": "@my-scope/other",
+  "version": "1.0.1",
+  "publishConfig": {
+    "registry": "http://localhost:4873"
   }
-  
+}
