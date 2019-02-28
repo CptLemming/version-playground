@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/CptLemming/version-playground/compare/@my-scope/other@1.1.0...@my-scope/other@1.1.1) (2019-02-28)
+
+
+### Bug Fixes
+
+* smile a little ([775ee27](https://github.com/CptLemming/version-playground/commit/775ee27))
+
+
+
+
+
 # [1.1.0](https://github.com/CptLemming/version-playground/compare/@my-scope/other@1.0.1...@my-scope/other@1.1.0) (2019-02-27)
 
 
